@@ -1,0 +1,25 @@
+//////////////////////////////////////////////////// Chapter 1/////////////////
+
+////Q1////
+
+// alert("Hello How are You")
+
+////// Q2 ///
+
+// alert("Error!Please enter a valid password.")
+
+//////Q3////
+
+// alert("Welcome to JS Land...\nHappy Coding! ")
+
+//////Q4/////
+
+// alert("Welcome to JS land")
+
+// alert("Happy Coding!")
+
+/////Q5//////
+
+/// generated  message through console //
+
+/////////////////////////////////////////  Chapter 2 /////////////////////////////////////////
